@@ -85,5 +85,5 @@ This repository contains the steps and SQL/MongoDB/firebase commands executed to
 ---
 ### Proof of Completion
 ##### Firebase Console
-![alt text](<Screenshot 2025-01-09 223147.png>)
-![alt text](<Screenshot 2025-01-09 223200.png>)
+![Screenshot 2025-01-09 223147](https://github.com/user-attachments/assets/c1de65fb-7f74-4311-832f-93241dad23b0)
+![Screenshot 2025-01-09 223200](https://github.com/user-attachments/assets/b234a89c-ca7a-47b1-82c8-5e9d7cc3cb51)
