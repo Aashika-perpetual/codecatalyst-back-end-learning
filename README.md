@@ -1,6 +1,6 @@
- # MySQL and MongoDB Database Operations
+ # MySQL,MongoDB and Firebase Database Operations
 
-This repository contains the steps and SQL/MongoDB commands executed to complete the tasks outlined for managing `Users` and `Tasks` databases using **MySQL** and **MongoDB**.
+This repository contains the steps and SQL/MongoDB/firebase commands executed to complete the tasks outlined for managing `Users` and `Tasks` databases using **MySQL** , **MongoDB** , **Firebase**.
 
 ### 1. Database Creation
 - **Database Name**: `task_manager_database`
